@@ -86,11 +86,12 @@ body {
 .btn {
   background: #fbff82;
   padding: 10px 20px;
+  margin-top: 20px;
   color: rgb(10, 10, 10);
   border-radius: 8px;
   text-decoration: none;
   border-top: 30px;
-  margin-left: 620px;
+  margin-left: 670px;
 }
 
 
